@@ -1,0 +1,13 @@
+body {
+    background-image: url("https://img.freepik.com/premium-photo/list-icon-notebook-with-completed-todo-list-3d-render_471402-428.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+  .gray {
+    background: #EAEAEA;
+    color: #676767;
+  }
+  
